@@ -14,15 +14,14 @@
  ### 🐛 About me
 
   * Former biology dropout (not very proud of that tho), but I still think life and it's mechanics are really cool
+  
+       <img src="https://cdn.kqed.org/wp-content/uploads/sites/35/2016/04/DL_307SlimeMolds_SLIME_MOLD_SPREADS_4_500.gif" width="220" />
+  
+       >A living being for context, you're welcome
+  
   * The reason I gained an interest in coding was a similar one to the reason I wanted to study biology (if you wanna know you have to give me a job, sorry, I don't make the rules)
   * When I grow up I wanna be a Full stack developer and I'm working towards that, so like when I'm like 60 or so I should be golden
-  * Learning is always fun and fucking up even more so, I mean mistakes are a great teacher an all that
-
-
-    <img src="https://cdn.kqed.org/wp-content/uploads/sites/35/2016/04/DL_307SlimeMolds_SLIME_MOLD_SPREADS_4_500.gif" width="220" />
-
-      >A living being for context, you're welcome
-
+  * Learning is always but not as much as making mistakes, I mean I might not know how to do the thing but now I know one way how not to do it
 
 ### :wrench: Technologies and Tools
 ---
