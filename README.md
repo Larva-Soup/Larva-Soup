@@ -15,24 +15,54 @@
 </h1>
   
  </div>
+ 
+ ### About me
 
-  
   * Former biology dropout (not very proud of that tho), but I still think life and it's mechanics are really cool
-  * The reason I gained an interest in coding was a similar one to the reason I wanted to study biology (spoiler: I didn't study it because I liked plants or animals)
-  * When I grow up I wanna be a Full stack developer so I'm working slowly towards that
+  * The reason I gained an interest in coding was a similar one to the reason I wanted to study biology (if you wanna know you have to give me a job, sorry, I don't make the rules)
+  * When I grow up I wanna be a Full stack developer so I'm working towards that, so like when I'm like 60 or so I should be golden
   * Learning is always fun and fucking up even more so, I mean mistakes are a great teacher an all that
+
 
     <img src="https://cdn.kqed.org/wp-content/uploads/sites/35/2016/04/DL_307SlimeMolds_SLIME_MOLD_SPREADS_4_500.gif" width="220" />
 
       >A living being for context, you're welcome
 
+
+### Technologies and Tools
+---
+  <div align="center">
+   <div> 
+      <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60" />
+      <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" alt="express" width="60" height="60" />
+      <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="redux" width="60" height="60" /> 
+   </div>
+  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
+  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" alt="firebase" width="40" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width"40" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original-wordmark.svg" alt="sequelize" width="40" height="40" />
+  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" heigth="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="github" width="40" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" alt="vscode" width="40" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-original-wordmark.svg" alt="gimp" width="40" height="40" />
+  </div>
+  
 <!--  ```
  Esto es otro
  parrafo
  ```
  
  ~~tercero~~ -->
- 
+ <div id="footer" align="center">
+
+  </div>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Larva-Soup)](https://github.com/anuraghazra/github-readme-stats)
 
