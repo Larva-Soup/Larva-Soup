@@ -21,7 +21,8 @@
   
   * The reason I gained an interest in coding was a similar one to the reason I wanted to study biology (if you wanna know you have to give me a job, sorry, I don't make the rules)
   * When I grow up I wanna be a Full stack developer and I'm working towards that, so like when I'm like 60 or so I should be golden
-  * Learning is always but not as much as making mistakes, I mean I might not know how to do the thing but now I know one way how not to do it
+  * Learning is always fun, I've always wanted to know how things work
+  * I'm gonna keep mistakes while I can, they can be quite fruitful
 
 ### :wrench: Technologies and Tools
 ---
