@@ -20,7 +20,7 @@
 
   * Former biology dropout (not very proud of that tho), but I still think life and it's mechanics are really cool
   * The reason I gained an interest in coding was a similar one to the reason I wanted to study biology (if you wanna know you have to give me a job, sorry, I don't make the rules)
-  * When I grow up I wanna be a Full stack developer so I'm working towards that, so like when I'm like 60 or so I should be golden
+  * When I grow up I wanna be a Full stack developer and I'm working towards that, so like when I'm like 60 or so I should be golden
   * Learning is always fun and fucking up even more so, I mean mistakes are a great teacher an all that
 
 
