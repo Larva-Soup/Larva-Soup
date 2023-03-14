@@ -53,12 +53,14 @@
 
   </div>
   
+  <div align="center">
   <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Larva-Soup&show_icons=true&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Larva-Soup&show_icons=true&theme=radical" width="40%" />
 </a>
 <a href="#">
-  <img align="center" src="https://streak-stats.demolab.com?user=Larva-Soup&theme=radical&border_radius=3.8" />
+  <img align="center" src="https://streak-stats.demolab.com?user=Larva-Soup&theme=radical&border_radius=3.8" width="40%" />
 </a>
+  </div>
 
 <div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Larva-Soup&layout=compact&theme=radical" />
