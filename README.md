@@ -1,22 +1,17 @@
 <div id="header" align="center"><img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="200" />
   
-<!--   "https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy.gif" -->
-<!--   "https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" -->
+  <div><img src="https://komarev.com/ghpvc/?username=Larva-Soup&style=flat-square&color=blue" alt=""/></div>
 
-
-<div id="badges"><a href="https://www.linkedin.com/in/christian-rosero-052068269/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" /></a></div>
-
-<img src="https://komarev.com/ghpvc/?username=Larva-Soup&style=flat-square&color=blue" alt=""/>
 
 <h1>
   <img src="https://media.giphy.com/media/Vo5P5oiIMcxCSDjKWX/giphy.gif" width="30px"/>
-  hey there I'm David
+  Hey there I'm David
   <img src="https://media.giphy.com/media/Vo5P5oiIMcxCSDjKWX/giphy.gif" width="30px"/>
 </h1>
   
  </div>
  
- ### About me
+ ### 🐛 About me
 
   * Former biology dropout (not very proud of that tho), but I still think life and it's mechanics are really cool
   * The reason I gained an interest in coding was a similar one to the reason I wanted to study biology (if you wanna know you have to give me a job, sorry, I don't make the rules)
@@ -29,7 +24,7 @@
       >A living being for context, you're welcome
 
 
-### Technologies and Tools
+### :wrench: Technologies and Tools
 ---
   <div align="center">
    <div> 
@@ -54,17 +49,26 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-original-wordmark.svg" alt="gimp" width="40" height="40" />
   </div>
   
-<!--  ```
- Esto es otro
- parrafo
- ```
- 
- ~~tercero~~ -->
  <div id="footer" align="center">
 
   </div>
+  
+  <a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Larva-Soup&show_icons=true&theme=radical" />
+</a>
+<a href="#">
+  <img align="center" src="https://streak-stats.demolab.com?user=Larva-Soup&theme=radical&border_radius=3.8" />
+</a>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Larva-Soup)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Larva-Soup&layout=compact&theme=radical" />
+</div>
+
+### :mailbox: You can reach me here:
+
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/christian-rosero-052068269/)
+ [![Gmail](https://img.shields.io/badge/-Gmail-FF0000?logo=gmail&logoColor=white&style=for-the-badge)](mailto:cdvdrosero@gmail.com)
+
 
 <!--
 **Larva-Soup/Larva-Soup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
