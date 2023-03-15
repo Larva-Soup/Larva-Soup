@@ -13,7 +13,7 @@
  
  ### 🐛 About me
 
-  * Former biology dropout (not very proud of that tho), but I still think life and it's mechanics are really cool
+  * Former biology dropout (I'll go back and finish it one day, I swear 😤), but I still think life and it's mechanics are really cool
   
        <img src="https://cdn.kqed.org/wp-content/uploads/sites/35/2016/04/DL_307SlimeMolds_SLIME_MOLD_SPREADS_4_500.gif" width="220" />
   
@@ -22,7 +22,8 @@
   * The reason I gained an interest in coding was a similar one to the reason I wanted to study biology (if you wanna know you have to give me a job, sorry, I don't make the rules)
   * When I grow up I wanna be a Full stack developer and I'm working towards that, so like when I'm like 60 or so I should be golden
   * Learning is always fun, I've always wanted to know how things work
-  * I'm gonna keep mistakes while I can, they can be quite fruitful
+  * I'm not a good student but I'm working on that, right now I'm learning how to study properly
+  * I'm gonna keep mistakes while I can, they can be quite insightful
 
 ### :wrench: Technologies and Tools
 ---
