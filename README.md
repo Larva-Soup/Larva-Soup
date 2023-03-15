@@ -13,7 +13,7 @@
  
  ### 🐛 About me
 
-  * Former biology dropout (I'll go back and finish it one day, I swear 😤), but I still think life and it's mechanics are really cool
+  * Former biology dropout (I'll go back and finish it one day, I swear 😤), I think life and it's mechanics are really cool
   
        <img src="https://cdn.kqed.org/wp-content/uploads/sites/35/2016/04/DL_307SlimeMolds_SLIME_MOLD_SPREADS_4_500.gif" width="220" />
   
