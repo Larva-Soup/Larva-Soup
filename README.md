@@ -23,7 +23,7 @@
   * When I grow up I wanna be a Full stack developer and I'm working towards that, so like when I'm like 60 or so I should be golden
   * Learning is always fun, I've always wanted to know how things work
   * I'm not a good student but I'm working on that, right now I'm learning how to study properly
-  * I'm gonna keep making mistakes while I can, they can be quite insightful
+  * I'm gonna keep making mistakes while I can, experience has thaught me they can be quite insightful
 
 ### :wrench: Technologies and Tools
 ---
